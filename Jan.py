@@ -782,6 +782,6 @@ def rcrack(uid,pwx,tl):
 
  
 
-i()
+ud()
 
  
